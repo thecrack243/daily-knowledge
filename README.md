@@ -18,7 +18,7 @@ Each commit will include:
 ## ⚙️ Important rule
 Every commit must represent something I learned or understood, even if small.
 
-This is not spam activity — it is a learning timeline.
+This is not spam activity — it is a learning timeline!
 
 ## 🚀 Goal
 Build consistency in learning and visualize growth over time through GitHub contributions.
