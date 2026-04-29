@@ -12,3 +12,4 @@ Even small steps matter in the long run.
 
 ## Next step
 Tomorrow I will try to learn or build something, even if it’s small.
+The idea and goal is the same, code every day,  commit every day
