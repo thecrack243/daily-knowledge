@@ -8,17 +8,17 @@ private:
 public:
     Person(int age) {
         this->age = new int(age);
-        cout << "constructor called" << endl;
+        cout << "Constructor called" << endl;
     }
 
     ~Person() {
         delete age;
-        cout << "destructor called" << endl;
+        cout << "Destructor called" << endl;
     }
 
     Person(const Person& p) {
         age = new int(*p.age);
-        cout << "copy constructor called" << endl;
+        cout << "Copy constructor called" << endl;
 
 
     }
