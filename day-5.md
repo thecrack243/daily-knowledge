@@ -27,3 +27,7 @@ This was my first step into transformer-based NLP models. It’s more complex th
 - Improve understanding of attention mechanism
 - Explore fine-tuning vs training from scratch
 - Try improving accuracy or experimenting with different datasets
+
+---
+
+visit https://github.com/thecrack243/bert-squad.git
