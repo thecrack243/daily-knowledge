@@ -1,4 +1,4 @@
-# 🌱 GitHub Art & Learning Log
+# 🌱 Daily Knowledge & Learning Log
 
 This repository is my personal consistency + learning space.
 
